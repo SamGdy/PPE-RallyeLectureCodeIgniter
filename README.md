@@ -34,10 +34,6 @@ Pour l'admin :
 ![capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/rlHomeAdmin.png)
 
 
-
-
-
-
 ## Langages mis en oeuvre
 
 ```
