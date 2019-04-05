@@ -23,20 +23,19 @@ Base de donnée Aauth :
  
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/DB_Schema_Aauth.PNG)
 
-Le logiciel se présente ainsi : L'enseignant s'identifie au logiciel.
+Le site se présente ainsi
 
-![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/Identification.PNG)
+![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/rlHomeVisiteur.png)
 
-Après s'être identifié, il a accès au logiciel 
+![capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/rlHomeAdmin.png)
 
-Il peut choisir un ou plusieur fichier CSV où se trouve le nom de famille et le prénom des élèves.
-
-![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/logiciel.PNG)
-
-Une fois le fichier sélectionné, l'enseignant va définir la classe, le niveau, et si le mot de passe doit être généré aléatoirement ou pas.
-
-Fichier original / Fichier créée
-
-![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/CsvEleve.PNG)     ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/CsvEleveIdentification.PNG)
+![capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/rlLogin.png)
 
 
+## Langages mis en oeuvre
+
+```
+- Netbeans IDE 8.2
+- Atom (Editor)
+- WAMP server for Windows
+- MAMP server for MacOs
