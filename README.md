@@ -25,15 +25,22 @@ Base de donnée Aauth :
 
 Le site se présente ainsi pour les visiteur :
 
+
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/rlHomeVisiteur.png)
 
+
 Pour l'admin :
+
 
 ![capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/rlLogin.png)
 
 ![capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/rlHomeAdmin.png)
 
+
+
 Pagination et upload d'un nouveau livre :
+
+
 
 ![capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/PaginationApresCr%C3%A9ationLivre.PNG)
 
