@@ -23,11 +23,15 @@ Base de donnée Aauth :
  
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/DB_Schema_Aauth.PNG)
 
-Le site se présente ainsi
+Le site se présente ainsi pour les visiteur :
 
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/rlHomeVisiteur.png)
 
+Pour l'admin :
+
 ![capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/rlHomeAdmin.png)
+
+
 
 ![capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/rlLogin.png)
 
