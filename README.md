@@ -2,34 +2,33 @@
 
 Site web du rallye lecture pour les élèves.
 
-Le projet regroupe 3 grandes parties :
+Le projet regroupe 2 grandes parties :
 
-* Lecture des informations d'un fichier csv.
-* Ecriture d'un fichier csv avec les informations de connection de chaques eleves.
-* Alimentation d'une base de données.
+* Connection des élèves au site.
+* Ajout de livre à la base de données.
 
 Les outils mis en oeuvre : 
 
-* Visual Studio
-* C#
-* Windows Form
+* CodeIgniter
+* Php
+* Html5
 * Git
 
-Tout d'abord nous avons créée la base de données pour acceuillir et traiter ces informations :
+Tout d'abord nous avons créée la base de données pour accueillir et traiter ces informations :
 
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureC-/blob/master/BddRallyeLecture.PNG)
 
-Base de donnée Aauth :
+Base de données Aauth :
  
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCSharp/blob/master/DB_Schema_Aauth.PNG)
 
-Le site se présente ainsi pour les visiteur :
+Le site se présente ainsi pour les visiteurs :
 
 
 ![Capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/rlHomeVisiteur.png)
 
 
-Pour l'admin :
+Pour l'administrateur :
 
 
 ![capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/rlLogin.png)
