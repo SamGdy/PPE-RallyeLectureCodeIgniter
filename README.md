@@ -44,10 +44,8 @@ Pagination et upload d'un nouveau livre :
 ![capture.png](https://github.com/SamGdy/PPE-RallyeLectureCodeIgniter/blob/master/PaginationApresCr%C3%A9ationLivre.PNG)
 
 
-## Langages mis en oeuvre
+## Outils mis en oeuvre
 
 ```
 - Netbeans IDE 8.2
-- Atom (Editor)
-- WAMP server for Windows
-- MAMP server for MacOs
+- CodeIgniter
